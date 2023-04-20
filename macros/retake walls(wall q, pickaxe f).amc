@@ -1,0 +1,38 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Этот макрос испозуется для ретейка(отбирания) стен,если у вас баги с задержками или поставлены другие бинды то можете изменить макрос.
+</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 60 ms
+LeftUp 1
+Delay 58 ms
+LeftDown 1
+Delay 55 ms
+LeftUp 1
+Delay 0 ms
+KeyDown 20 1
+Delay 30 ms
+KeyUp 20 1
+Delay 20 ms
+LeftDown 1
+Delay 35 ms
+LeftUp 1
+Delay 30 ms
+KeyDown 32 1
+Delay 50 ms
+KeyUp 32 1
+LeftDown 1
+LeftUp 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>

@@ -1,0 +1,37 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>--------------
+ОПИСАНИЕ:С данным макросом, вы сможете отбирать стенки у врагов очень просто. Если у вас пинг 60-100, то это не проблема, теперь вы с данным макросом киберспортсмен, Вы можете отбирать стенки у людей, у которых пинг 0-60(проверено на личном опыте)
+---------------
+ИНСТРУКЦИЯ:
+1. Запустить игру.
+2. Выберите режим работы с драйвером.
+3. Присвойте макрос на удобную клавишу виртуальной клавиатуры или мышки в программе.
+3. В Fortnite на доп. кнопку поставьте стену на X
+4. Подойдите к стенке врага, нажмите кнопку X
+5, Готово! Делайте ваш мув и давайте в хед с pump или charge.</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>LeftDown 1
+Delay 64
+LeftUp 1
+Delay 64
+KeyDown 27 1
+Delay 64
+LeftDown 1
+Delay 64
+KeyUp 27 1
+Delay 64
+LeftUp 1
+Delay 64</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>
