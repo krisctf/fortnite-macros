@@ -1,2 +1,3 @@
 # fortnite-macros
-fortnite macros duh
+
+.amc macro repo
