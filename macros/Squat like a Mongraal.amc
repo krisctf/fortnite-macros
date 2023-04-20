@@ -1,0 +1,47 @@
+<Root>
+  <DefaultMacro>
+    <Major></Major>
+    <Description>Приседание как у монграла, работает если у тебя приседание на Ctrl, Если не так, можете изменить его в макросах, работает на всех играх, топчик</Description>
+    <Comment>https://botmek.com - Free macros download | Скачать бесплатные макросы </Comment>
+    <GUIOption>
+      <RepeatType>0</RepeatType>
+    </GUIOption>
+    <KeyUp>
+      <Syntax></Syntax>
+    </KeyUp>
+    <KeyDown>
+      <Syntax>KeyDown 224 1
+Delay 25 ms
+KeyUp 224 1
+Delay 25 ms
+KeyDown 224 1
+Delay 25 ms
+KeyUp 224 1
+Delay 25 ms
+KeyDown 224 1
+Delay 25 ms
+KeyUp 224 1
+Delay 25 ms
+KeyDown 224 1
+Delay 25 ms
+KeyUp 224 1
+Delay 25 ms
+KeyDown 224 1
+Delay 25 ms
+KeyUp 224 1
+Delay 25 ms
+KeyDown 224 1
+Delay 25 ms
+KeyUp 224 1
+Delay 25 ms
+KeyDown 224 1
+Delay 25 ms
+KeyUp 224 1
+Delay 25 ms
+KeyDown 224 1
+Delay 25 ms
+KeyUp 224 1</Syntax>
+    </KeyDown>
+    <Software>Fortnite</Software>
+  </DefaultMacro>
+</Root>
